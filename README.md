@@ -11,7 +11,7 @@
 **Objectives:**
 * Use the data collected from a single accelerometer and/or magnetometer to record a hand movement sequence as a means to generally “unlock” a resource.
 * Recorded sequence must be saved on the microcontroller, using a “Record Key”
-feature. (*I Using a serial monitor input for this. **NOTE:** The LED is continuously glowing when its recording*)
+feature. (*I am using a serial monitor input for this. **NOTE:** The LED is continuously glowing when its recording*)
 * User then must replicate the key sequence within sufficient tolerances to unlock
 the resource. (*User must press detect pattern in the serial monitor*)
 * A successful unlock must be indicated by a visual indication, such as an LED or
